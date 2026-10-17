@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sweetbox-catch-game
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
